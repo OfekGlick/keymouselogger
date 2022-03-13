@@ -5,6 +5,6 @@ This summer (Summer of 2021) I attempted to write a simple key and mouse logger 
 `master.py` is the main script, instantaining both objects and orchastrating the activity between them along side receiving initial data and in the future also disabing security settings of the "victim".
 
 
-This script was written for educational and entertainment purposes only (let's admit it, it's fun to code).
+This script was written for educational and entertainment purposes only.
 This script was never used to actually spy on anyone and please do not use it for those purposes.
 This script is elementry and makes no attempt to hide itself.
